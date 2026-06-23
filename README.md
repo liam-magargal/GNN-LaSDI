@@ -1,3 +1,1 @@
-# GNN-LaSDI
-# GNN-LaSDI
-# GNN-LaSDI
+This repository contains code for FOMs, as well as the GNN-LaSDI, GD-LSPG, and POD-LaSDI ROMs for the Kobayashi's solidification model experiment, as well as the 2D Euler equations model for a bow shock on a cylinder. Point cloud errors are generated using Canny edge detection and a Ducros sensor for the Kobayashi's model and 2D Euler equations model experiments, respectively. The code is available in the decodeSolution.py scripts.
